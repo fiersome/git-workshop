@@ -2,3 +2,4 @@ Hello, Git!
 My name is [Name].
 lalala yeyeye
  much wow 
+git remove set-url origin [url]
